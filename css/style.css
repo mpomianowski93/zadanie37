@@ -1,0 +1,16 @@
+h1 {
+	background-color: aliceblue;
+	color: blue;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p {
+	background-color: burlywood;
+	font-size: 30px;
+	text-align: center;
+}
+button {
+	font-size: 20px;
+	background-color: pink;
+	font-family: fantasy;
+}
